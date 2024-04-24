@@ -1,7 +1,6 @@
 import './App.css'
-import { Cta,Brand,Navbar } from './components'
-import { Blog,Features,Footer,Header,WhatGPT3,Possibility} from './containers';
-
+import { Cta,Brand,Navbar } from './components/index'
+import { Blog,Features,Footer,Header,WhatGPT3,Possibility} from './containers/index';
 
 function App() {
   
